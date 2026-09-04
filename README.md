@@ -1,2 +1,2 @@
-# openux-onman
-OnMan (OpeNux Package Manager)
+# OpeNux onman
+onman - Just package manager lol
